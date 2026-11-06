@@ -1,9 +1,23 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Florida Median Household Income",
+    "section": "",
+    "text": "Click on any county in the map above to see its median household income and margin of error from the 2018–2022 American Community Survey."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "income-age.html",
+    "href": "income-age.html",
+    "title": "Comparing Income and Age in Florida",
+    "section": "",
+    "text": "Click on any county in the map above to see its exact median household income and median age. This map divides Florida’s 67 counties into four categories by comparing each county’s median household income and median age against the statewide county medians:\n\nHigh Income, Older: Concentrated along the Gulf and Atlantic coastlines (such as Collier, Sarasota, St. Johns, and Martin counties), reflecting affluent coastal and retirement communities.\nHigh Income, Younger: Clustered around major metropolitan job hubs like Orange (Orlando), Hillsborough (Tampa), Duval (Jacksonville), and Miami-Dade counties.\nLow Income, Older: Found mostly in rural inland and central Florida retirement counties (such as Citrus, Highlands, and Marion counties) where the cost of living is lower.\nLow Income, Younger: Concentrated in inland agricultural counties and counties with large university populations, such as Alachua (Gainesville) and Leon (Tallahassee)."
   }
 ]

@@ -1,1 +1,5 @@
 /* css styles */
+.leaflet-container {
+  background: #ffffff !important;
+}
+
